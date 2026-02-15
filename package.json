@@ -20,8 +20,8 @@
   "dependencies": {
     "can": "^2.2.5",
     "cssify": "0.6.0",
-    "d3": "<=3.5.0",
-    "c3": "0.4.10"
+    "d3": "3.5.4",
+    "c3": "0.4.11"
   },
   "devDependencies": {
     "documentjs": "git://github.com/bitovi/documentjs#master",
